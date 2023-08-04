@@ -1,6 +1,6 @@
 # **RealTime Chat - Node.js & JavaScript**
 
-![caht](https://github.com/013Edu/web-chat/assets/91925011/c6c2dedb-6042-4a8a-9322-d3674b0ba9fd)
+![caht](https://github.com/013Edu/web-chat/assets/91925011/5b6eaa46-48f9-4163-90d4-4eb3aaa65c35)
 
 
 ## Descrição do Projeto
