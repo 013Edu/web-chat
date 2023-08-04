@@ -68,5 +68,4 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
-- E-mail: seu-email@gmail.com
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
+- E-mail: sobral.je81@gmail.com
